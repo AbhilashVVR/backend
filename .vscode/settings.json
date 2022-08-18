@@ -1,0 +1,47 @@
+{
+  "serverlessConsole.services": [
+    {
+      "type": "dynamodb",
+      "title": "games",
+      "tableName": "games",
+      "awsProfile": "default",
+      "region": "ap-south-1"
+    },
+    {
+      "type": "dynamodb",
+      "title": "powerups",
+      "tableName": "powerups",
+      "awsProfile": "default",
+      "region": "ap-south-1"
+    },
+    {
+      "type": "dynamodb",
+      "title": "singleques",
+      "tableName": "singleques",
+      "awsProfile": "default",
+      "region": "ap-south-1"
+    },
+    {
+      "type": "dynamodb",
+      "title": "excercise",
+      "tableName": "excercise",
+      "awsProfile": "default",
+      "region": "ap-south-1"
+    },
+    {
+      "type": "dynamodb",
+      "title": "banners",
+      "tableName": "banners",
+      "awsProfile": "default",
+      "region": "ap-south-1"
+    },
+    {
+      "type": "dynamodb",
+      "title": "user",
+      "tableName": "user",
+      "awsProfile": "default",
+      "region": "ap-south-1"
+    }
+  ],
+  "files.autoSave": "afterDelay"
+}
