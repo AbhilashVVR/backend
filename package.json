@@ -4,7 +4,7 @@
   "description": "LingoWayz backend",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon node app.js",
+    "start": "node app.js",
     "dev": "nodemon"
   },
   "author": "CodeAxes",
